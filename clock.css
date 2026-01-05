@@ -1,0 +1,48 @@
+#clock 
+{
+    position: relative;
+    width: 40vw;
+    height: 40vw;
+    background: url(https://tse1.mm.bing.net/th?id=OIP.5PlisD8W4tVCcT2nIXm_SAHaHn&pid=Api&P=0&h=180) no-repeat;
+    background-size: 100%;
+    margin: auto;
+}
+
+#hour,
+#minutes,
+#seconds 
+{
+    position: absolute;
+    background-color: gold;
+    transform-origin: bottom;
+    border-radius: 2px;
+}
+
+
+#hour 
+{
+    width: 1%;
+    height: 25%;
+    top: 28%;
+    left: 50%;
+}
+
+#minutes 
+{
+
+    width: 1%;
+    height: 28%;
+    top: 25%;
+    left: 50%;
+    background-color: purple;
+}
+
+#seconds 
+{
+
+    width: 1%;
+    height: 32%;
+    top: 21%;
+    left: 50%;
+    background-color: red;
+}

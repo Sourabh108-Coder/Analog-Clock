@@ -42,7 +42,9 @@ Clock/
 
 
 **📸 Screenshot**
-![Analog Wall Clock](screenshot/Clock.png)
+![Analog Wall Clock (Desktop)](screenshot/Clock_Desktop.png)
+
+![Analog Wall Clock (Mobile)](screenshot/Clock_Mobile.png)
 
 
 **👨‍💻 Author**

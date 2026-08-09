@@ -34,7 +34,7 @@ Clock/
 
 **▶️ How to Run the Project**
 
-   1. Clone the repository - git clone https://github.com/your-username/Analog-Clock.git
+   1. Clone the repository - git clone https://github.com/Sourabh108-Coder/Analog-Clock.git
 
    2. Open the project folder - cd analog-wall-clock
 
